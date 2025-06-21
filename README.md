@@ -44,7 +44,7 @@
 
   <div class="heart">💖</div>
   <h1>¿Quieres ser mi novia?</h1>
-  <p>Desde que te conocí, mi mundo cambió. <br> Hoy quiero dar un paso más contigo...<br><br><strong>Misael ❤️ [Tu nombre]</strong></p>
+  <p>Desde que te conocí, mi mundo cambió. <br> Hoy quiero dar un paso más contigo...<br><br><strong>Misael ❤️ [Deysi]</strong></p>
 
   <!-- Foto personalizada: reemplaza la URL con la tuya -->
   <img src="https://tu-enlace-directo.com/mi-foto.jpg" alt="Nuestra foto" class="photo">
